@@ -6,6 +6,7 @@ public class FirstProgram {
 		// TODO Auto-generated method stub
 
 		System.out.println("Welcome to Java World");
+		System.out.println("hi again");
 	}
 
 }
