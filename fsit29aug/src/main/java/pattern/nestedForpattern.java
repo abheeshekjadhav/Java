@@ -18,7 +18,7 @@ public class nestedForpattern {
 			System.out.println();
 		}
 		
-
+        sc.close();
 	}
 
 }
